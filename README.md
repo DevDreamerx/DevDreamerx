@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm **Hans Barners**, a ✨ _web developer_ ✨ with expertise in React and Vue. 
+I'm **Ree**, a ✨ _web developer_ ✨ with expertise in Bootstrap and Astro. 
 
 - 💼 Looking for a nice chance.
 - 🌐 [My website](https://ree98.cn)
